@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Maurício Santos
+
 
 🚀 I'm a DevOps Engineer passionate about automation, cloud-native infrastructure, and scalable deployments.
 
