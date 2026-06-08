@@ -3,6 +3,7 @@
  I'm a DevOps Engineer passionate about automation, cloud-native infrastructure, and scalable deployments.
 
  I currently work with:
+- Gitop using ArgoCD
 - CI/CD pipelines using GitLab and GitHub Actions
 - Kubernetes
 - Cloud infrastructure on Azure 
