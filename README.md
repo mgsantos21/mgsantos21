@@ -4,9 +4,9 @@
 
  I currently work with:
 - Gitop using ArgoCD
-- CI/CD pipelines using GitLab and GitHub Actions
+- CI/CD pipelines using GitLab/GitHub Actions/Jenkins
 - Kubernetes
-- Cloud infrastructure on Azure 
+- Cloud infrastructure on Azure and AWS
 - Monitoring with Prometheus and Grafana
 
 ---
